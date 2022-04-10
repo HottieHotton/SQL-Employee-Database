@@ -76,7 +76,7 @@ function viewAllEmployees() {
 
 //Add Department
 function addDepartment() {
-  prompt([
+  inquirer.prompt([
     {
       name: "name",
       type: "input",
@@ -94,7 +94,7 @@ function addDepartment() {
 //New Role
 function addRole() {
   db.query("select id, name from department", (err, department) => {
-    prompt([
+    inquirer.prompt([
       {
         name: "title",
         type: "input",
@@ -125,7 +125,7 @@ function addRole() {
 function addEmployee() {
   db.query("select id, title from role", (err, role) => {
     db.query("select id, last_name from employee", (err, manager) => {
-      prompt([
+      inquirer.prompt([
         {
           name: "first_name",
           type: "input",
