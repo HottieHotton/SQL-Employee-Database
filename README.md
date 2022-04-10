@@ -4,7 +4,6 @@
   --------------------
   - [Description](#description)
   - [Installations](#installation)
-  - [Usage](#usage)
   - [Contributing](#contribution)
   - [Tests](#testing)
   - [License](#licenses)
@@ -18,9 +17,7 @@
   ---------------
   See video to follow instructions!
 
-  ## Usage
-  ---------------------
-  Watch this video of how to run the program after opening it!
+ ![Video](https://vimeo.com/697818852)
 
   ## Contribution
   --------------------------
