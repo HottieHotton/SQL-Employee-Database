@@ -17,7 +17,7 @@
   ---------------
   See video to follow instructions!
 
- ![Video](https://vimeo.com/697818852)
+ [Video](https://vimeo.com/697818852)
 
   ## Contribution
   --------------------------
