@@ -13,9 +13,9 @@ VALUES
   ('Accounting Manager', 100000, 2),
   ('Marketing Manager', 100000, 3),
   ('Head Engineer', 100000, 4),
-  ('Outside Salesperson', 50000, 1),
+  ('Salesperson', 50000, 1),
   ('Accountant', 50000, 2),
-  ('Product Marketer', 50000, 3),
+  ('Receptionist', 50000, 3),
   ('Engineer', 50000, 4);
 
 INSERT INTO employee
@@ -31,5 +31,5 @@ VALUES
   ('Jordan', 'Clemens', 6, 2),
   ('Daniel', 'Di Pasqua', 7, 3),
   ('Ean', 'Goddard', 7, 3),
-  ('Sawsan', 'Jérôme', 8, 4),
+  ('Sawsan', 'Doham', 8, 4),
   ('Aarthi', 'Ajam', 8, 4);
